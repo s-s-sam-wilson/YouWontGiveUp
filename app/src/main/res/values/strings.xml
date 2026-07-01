@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouWontGiveUp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+    <string name="title_url">Blocked urls</string>
+</resources>

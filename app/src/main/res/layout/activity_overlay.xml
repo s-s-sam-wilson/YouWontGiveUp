@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#DD000000"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YOU WON'T GIVE UP"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="32sp"/>
+
+    <TextView
+        android:id="@+id/txtDomain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#D0BCFF"
+        android:textSize="20sp"
+        android:layout_marginTop="24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close your distraction.\nRemember why you started."
+        android:textColor="#FFFFFF"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:layout_marginTop="32dp"/>
+
+</LinearLayout>
